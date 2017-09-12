@@ -1,0 +1,4 @@
+Create table Student(RNO int,Name varchar(10));
+insert into Student values(1,'Aniket');
+insert into Student values(2,'Rakesh');
+Select * from Student;
